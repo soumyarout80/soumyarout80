@@ -7,6 +7,7 @@
 ## Find me around the web 🌎: 
 - Helping people on <a href="https://stackoverflow.com/users/7897544/soumya"> stack**overflow** </a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/soumya-rout/">LinkedIn</a> 💼
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!---
 soumyarout80/soumyarout80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
