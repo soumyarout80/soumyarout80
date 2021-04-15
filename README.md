@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Soumya Ranjan Rout**
+# Hi, I'm Soumya Ranjan Rout 👋🏾 💻
 - 👀 I’m interested in Infrastructure and cloud
 - 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on any opensource Golang project.
