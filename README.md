@@ -1,5 +1,10 @@
-# Hi, I'm Soumya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 💻
+# Hi, I'm Soumya <img src="wave.gif" width="30px"> 💻
+
 > My name is **Soumya Ranjan Rout** and I'm a software developer/DevOps engineer. I'm from India, living in Bangalore working at Walmart.
+
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
 ## Find me around the web 🌎: 
 [![CI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-rout/)
 [![CI](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7897544/soumya)
@@ -20,6 +25,7 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+
 
 <!---
 soumyarout80/soumyarout80 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
