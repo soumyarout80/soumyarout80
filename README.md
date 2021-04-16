@@ -9,7 +9,7 @@
 [![CI](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-rout/)
 [![CI](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7897544/soumya)
 
-- 🔭 I’m currently working on [Terraform](https://github.com/soumyarout80/terraform-infra-automation)
+- 🔭 I’m currently working on [Terraform](https://github.com/soumyarout80/terraform-infra-automation), [Kubernetes](https://github.com/soumyarout80/k8s_deployment)
 
 - 🌱 I’m currently learning **Golang**
 
