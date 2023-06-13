@@ -1,4 +1,4 @@
-# Hi, I'm Soumya <img src="wave.gif" width="30px"> 💻
+# Hi, I'm Soumya Ranjan Rout<img src="wave.gif" width="30px"> 💻
 
 > My name is **Soumya Ranjan Rout** and I'm a software developer/DevOps engineer. I'm from India, living in Bangalore working at Walmart.
 
