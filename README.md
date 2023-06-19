@@ -1,6 +1,6 @@
 ![Design and Development](https://github.com/soumyarout80/soumyarout80/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Soumya</h1>
-<h3 align="center">Passionate DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
+<h3 align="center">Passionate Python Developer & DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyarout80&label=Profile%20views&color=0e75b6&style=flat" alt="soumyarout80" /> </p>
 
