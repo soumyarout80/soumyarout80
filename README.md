@@ -27,6 +27,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Continuous Behavior Driven Testing](https://medium.com/@soumya-rout/continuous-behavior-driven-testing-fdcc13fdd71e)
+- [Docker useful command](https://www.linkedin.com/pulse/docker-useful-command-soumya-rout/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
