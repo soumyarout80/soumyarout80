@@ -34,7 +34,7 @@
 <a href="https://linkedin.com/in/soumya-rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-rout" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7897544" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7897544" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/soumyarout80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="soumyarout80" height="30" width="40" /></a>
-<a href="/https://www.linkedin.com/pulse/docker-useful-command-soumya-rout/?trackingid=lf8n4pcwttotedbnyh9oca%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.linkedin.com/pulse/docker-useful-command-soumya-rout/?trackingid=lf8n4pcwttotedbnyh9oca%3d%3d" height="30" width="40" /></a>
+<a href="https://medium.com/@soumya-rout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@soumya-rout" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
