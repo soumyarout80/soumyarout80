@@ -3,7 +3,7 @@
 
 > I'm **Soumya Ranjan Rout** from India Bengaluru, doing Software Development and Cloud Architect. I really enjoy learning languages and frameworks like Golang and React, as well as working in Kubernetes designing micro-services. I also enjoy building different CI/CD pipelines, automated tests, and designing cloud deployment in general.
 
-<h3 align="center">Passionate Python Developer & DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
+<h3 align="center">Passionate Cloud Architect, Python Developer & DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyarout80&label=Profile%20views&color=0e75b6&style=flat" alt="soumyarout80" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **AWS Cloud,Docker, Kubernetes, Ansible, Terraform, CI/CD, Python, Django**
 
-- 📫 How to reach me **soumya.devops@gmail.com**
+- 📫 How to reach me **soumya@gmail.com**
 
 - 📄 Know about my experiences [https://soumyarout80.github.io/](https://soumyarout80.github.io/)
 
