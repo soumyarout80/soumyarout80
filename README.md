@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/soumyarout80/soumyarout80/blob/main/banner.png)
 # Hi, I'm Soumya Ranjan Rout<img src="wave.gif" width="30px"> 💻
 
-> I'm **Soumya Ranjan Rout** from India Bengaluru, doing Software Development and DevOps. I really enjoy learning languages and frameworks like Golang and React, as well as working in Kubernetes. I also enjoy building different CI/CD pipelines, automated tests, and designing cloud deployment in general.
+> I'm **Soumya Ranjan Rout** from India Bengaluru, doing Software Development and Cloud Architect. I really enjoy learning languages and frameworks like Golang and React, as well as working in Kubernetes designing micro-services. I also enjoy building different CI/CD pipelines, automated tests, and designing cloud deployment in general.
 
 <h3 align="center">Passionate Python Developer & DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
 
