@@ -1,9 +1,9 @@
 ![Design and Development](https://github.com/soumyarout80/soumyarout80/blob/main/banner.png)
 # Hi, I'm Soumya Ranjan Rout<img src="wave.gif" width="30px"> 💻
 
-> I'm **Soumya Ranjan Rout** from India Bengaluru, doing Software Development and Cloud Architect. I really enjoy learning languages and frameworks like Golang and React, as well as working in Kubernetes designing micro-services. I also enjoy building different CI/CD pipelines, automated tests, and designing cloud deployment in general.
+> I'm **Soumya Ranjan Rout** Director of Engineering and System/Cloud Architect with 15+ years building and scaling production-grade SaaS and AI/ML platforms. I design and lead delivery of multi-tenant, multi-region infrastructure and backend systems: multi-cloud Kubernetes, secure API & data planes (API Gateway / WAF / mTLS service mesh), high-throughput streaming pipelines (Apache Pulsar / Kafka), and low-latency Golang/Python services backed by Redis Cluster, Postgres, Neo4j, and modern observability stacks (metrics, logs, tracing, topology)..
 
-<h3 align="center">Passionate Cloud Architect, Python Developer & DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
+<h3 align="center">Passionate System/Backend Architect, Java, Go, Python Developer & SRE, DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyarout80&label=Profile%20views&color=0e75b6&style=flat" alt="soumyarout80" /> </p>
 
