@@ -1,7 +1,12 @@
 ![Design and Development](https://github.com/soumyarout80/soumyarout80/blob/main/banner.png)
 # Hi, I'm Soumya Ranjan Rout<img src="wave.gif" width="30px"> 💻
 
-> I'm **Soumya Ranjan Rout** Director of Engineering and System/Cloud Architect with extensive experience years building and scaling production-grade SaaS and AI/ML platforms. I design and lead delivery of multi-tenant, multi-region infrastructure and backend systems: multi-cloud Kubernetes, secure API & data planes (API Gateway / WAF / mTLS service mesh), high-throughput streaming pipelines (Apache Pulsar / Kafka), and low-latency Golang/Python services backed by Redis Cluster, Postgres, Neo4j, and modern observability stacks (metrics, logs, tracing, topology)..
+> I'm **Soumya Ranjan Rout** I’ve spent my career turning ambiguous, high-stakes engineering problems into reliable platforms, scalable teams, and product capabilities that last.
+
+> Today, I’m a Founding Member and Senior Director of Engineering at Empirik AI. I led our causal observability platform from its initial architecture to production and now lead a 25-person engineering organization. My scope spans backend and platform engineering, knowledge graph compilation, AI agent infrastructure, and reliability.
+
+> The technical problem I care most about now is context for production AI.
+> If you are building agentic systems, infrastructure intelligence, or platforms where correctness and context genuinely matter, I would be glad to connect.
 
 <h3 align="center">Passionate System/Backend Architect, Java, Go, Python Developer & SRE, DevOps Leader | Driving Transformation and Innovation | Orchestrating Agile CI/CD Pipelines for Scalable Cloud Infrastructures | Enabling Continuous Improvement and Operational Excellence</h3>
 
